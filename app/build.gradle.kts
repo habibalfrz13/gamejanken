@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.habib.gamejanken"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.habib.gamejanken"
